@@ -1,0 +1,12 @@
+.idea
+**/.DS_Store
+venv/
+.pytest*
+**/__pycache__/
+dev.env
+dev-docker-compose.yml
+deploy/.cache/
+**/logs
+.vscode
+.mypy_cache
+migrations/versions/*
